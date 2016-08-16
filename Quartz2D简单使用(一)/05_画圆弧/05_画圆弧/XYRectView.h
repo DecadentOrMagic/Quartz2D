@@ -1,0 +1,13 @@
+//
+//  XYRectView.h
+//  05_画圆弧
+//
+//  Created by 薛尧 on 16/1/29.
+//  Copyright © 2016年 薛尧. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface XYRectView : UIView
+
+@end
