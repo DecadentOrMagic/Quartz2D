@@ -28,12 +28,12 @@
     // 画一个四边形
     XYview1 *view1 = [[XYview1 alloc] initWithFrame:bounds];
     view1.backgroundColor = [UIColor whiteColor];
-    [self.view addSubview:view1];
+//    [self.view addSubview:view1];
     
     // 画一个歪的四边形
     XYview2 *view2 = [[XYview2 alloc] initWithFrame:bounds];
     view2.backgroundColor = [UIColor whiteColor];
-//    [self.view addSubview:view2];
+    [self.view addSubview:view2];
     
     // 旋转
     XYview3 *view3 = [[XYview3 alloc] initWithFrame:bounds];
